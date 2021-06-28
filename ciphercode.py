@@ -3,8 +3,7 @@ OFFSET = 3
 OVERFLOWOFFSET = 23
 
 # This function only takes in lowercase letters and spaces
-# It will return an error text when a character in the
-# input string is not a lowercase letter or a space. 
+# It will return an error text when a character in the input string is not a lowercase letter or a space. 
 def getCipherText(inputStr):
 
     # The variables hold the inputted letter and the encrypted character
