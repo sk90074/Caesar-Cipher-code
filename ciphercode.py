@@ -64,5 +64,3 @@ else:
     print("The encrypted message is:",cipherText)
     plainText = getPlainText(cipherText)
     print("The decrypted message is:",plainText)
-
-#Done by Suhrith Kaushik on 6/23/2021
